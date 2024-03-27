@@ -1,4 +1,8 @@
-### Hi there 👋
+### Welcome
+
+I'm a Cloud DevOps engineer working on projects making the most out of AWS. 
+
+🔭 I'm currently playing around with the terraform-github-actions-runner. 
 
 <!--
 **rainmaker2k/rainmaker2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
